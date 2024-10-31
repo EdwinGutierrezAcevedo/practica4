@@ -1,0 +1,100 @@
+# ninja log v6
+24	170	7520907069093113	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/timestamp	9066e2d604cdbe3b
+24	170	7520907069093113	prueba4_autogen/timestamp	9066e2d604cdbe3b
+172	894	7520907070590561	CMakeFiles/prueba4.dir/main.cpp.obj	207ccddd6552dfbe
+24	170	7520907069093113	prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+24	170	7520907069093113	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+160	1653	7520905776510375	CMakeFiles/prueba4.dir/network.cpp.obj	7b1f759097a950e0
+178	1092	7520907070601394	CMakeFiles/prueba4.dir/Menu.cpp.obj	8b17b548b168defd
+280	438	7520798213639847	CMakeFiles/prueba4.dir/prueba4_autogen/mocs_compilation.cpp.obj	8bae6d299230ef8c
+152	1236	7520905776510375	CMakeFiles/prueba4.dir/router.cpp.obj	f224be854c5ba84
+1092	1435	7520907079795650	prueba4.exe	df8a9b515343d125
+24	158	7520908782624640	prueba4_autogen/timestamp	9066e2d604cdbe3b
+24	158	7520908782624640	prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+24	158	7520908782624640	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/timestamp	9066e2d604cdbe3b
+24	158	7520908782624640	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+160	887	7520908784007145	CMakeFiles/prueba4.dir/main.cpp.obj	207ccddd6552dfbe
+167	1560	7520908784007145	CMakeFiles/prueba4.dir/network.cpp.obj	7b1f759097a950e0
+1560	1915	7520908798021911	prueba4.exe	c15a1021961a644e
+11	151	7520915275480081	prueba4_autogen/timestamp	9066e2d604cdbe3b
+11	151	7520915275480081	prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+11	151	7520915275480081	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/timestamp	9066e2d604cdbe3b
+11	151	7520915275480081	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+152	1789	7520915276963528	CMakeFiles/prueba4.dir/network.cpp.obj	7b1f759097a950e0
+1789	2160	7520915293331886	prueba4.exe	c15a1021961a644e
+11	129	7520923214798343	prueba4_autogen/timestamp	9066e2d604cdbe3b
+11	129	7520923214798343	prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+11	129	7520923214798343	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/timestamp	9066e2d604cdbe3b
+11	129	7520923214798343	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+131	861	7520923216030279	CMakeFiles/prueba4.dir/main.cpp.obj	207ccddd6552dfbe
+138	1695	7520923216030279	CMakeFiles/prueba4.dir/network.cpp.obj	7b1f759097a950e0
+1696	2078	7520923231690309	prueba4.exe	c15a1021961a644e
+25	142	7520923752244405	prueba4_autogen/timestamp	9066e2d604cdbe3b
+25	142	7520923752244405	prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+25	142	7520923752244405	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/timestamp	9066e2d604cdbe3b
+25	142	7520923752244405	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+33	185	7520924205475920	prueba4_autogen/timestamp	9066e2d604cdbe3b
+33	185	7520924205475920	prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+33	185	7520924205475920	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/timestamp	9066e2d604cdbe3b
+33	185	7520924205475920	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+187	1795	7520924207031770	CMakeFiles/prueba4.dir/network.cpp.obj	7b1f759097a950e0
+1795	2138	7520924223117153	prueba4.exe	c15a1021961a644e
+29	168	7520924327724648	prueba4_autogen/timestamp	9066e2d604cdbe3b
+29	168	7520924327724648	prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+29	168	7520924327724648	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/timestamp	9066e2d604cdbe3b
+29	168	7520924327724648	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+169	1810	7520924329253393	CMakeFiles/prueba4.dir/network.cpp.obj	7b1f759097a950e0
+1810	2162	7520924345672815	prueba4.exe	c15a1021961a644e
+10	140	7520924698505106	prueba4_autogen/timestamp	9066e2d604cdbe3b
+10	140	7520924698505106	prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+10	140	7520924698505106	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/timestamp	9066e2d604cdbe3b
+10	140	7520924698505106	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+141	1839	7520924699943880	CMakeFiles/prueba4.dir/network.cpp.obj	7b1f759097a950e0
+1839	2216	7520924716924548	prueba4.exe	c15a1021961a644e
+11	135	7520931172728630	prueba4_autogen/timestamp	9066e2d604cdbe3b
+11	135	7520931172728630	prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+11	135	7520931172728630	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/timestamp	9066e2d604cdbe3b
+11	135	7520931172728630	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+31	191	7520931360584035	prueba4_autogen/timestamp	9066e2d604cdbe3b
+31	191	7520931360584035	prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+31	191	7520931360584035	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/timestamp	9066e2d604cdbe3b
+31	191	7520931360584035	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+193	2021	7520931362317122	CMakeFiles/prueba4.dir/network.cpp.obj	7b1f759097a950e0
+2021	2430	7520931380601867	prueba4.exe	c15a1021961a644e
+14	150	7520934088202367	prueba4_autogen/timestamp	9066e2d604cdbe3b
+14	150	7520934088202367	prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+14	150	7520934088202367	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/timestamp	9066e2d604cdbe3b
+14	150	7520934088202367	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+151	2095	7520934089636989	CMakeFiles/prueba4.dir/network.cpp.obj	7b1f759097a950e0
+2095	2508	7520934109077344	prueba4.exe	c15a1021961a644e
+24	146	7520944734021164	prueba4_autogen/timestamp	9066e2d604cdbe3b
+24	146	7520944734021164	prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+24	146	7520944734021164	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/timestamp	9066e2d604cdbe3b
+24	146	7520944734021164	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+147	912	7520944735305913	CMakeFiles/prueba4.dir/main.cpp.obj	207ccddd6552dfbe
+24	148	7520945035517078	prueba4_autogen/timestamp	9066e2d604cdbe3b
+24	148	7520945035517078	prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+24	148	7520945035517078	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/timestamp	9066e2d604cdbe3b
+24	148	7520945035517078	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+34	191	7520955012671950	prueba4_autogen/timestamp	9066e2d604cdbe3b
+34	191	7520955012671950	prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+34	191	7520955012671950	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/timestamp	9066e2d604cdbe3b
+34	191	7520955012671950	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+192	2239	7520955014383532	CMakeFiles/prueba4.dir/network.cpp.obj	7b1f759097a950e0
+35	210	7520955161324456	prueba4_autogen/timestamp	9066e2d604cdbe3b
+35	210	7520955161324456	prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+35	210	7520955161324456	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/timestamp	9066e2d604cdbe3b
+35	210	7520955161324456	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+212	2263	7520955163194928	CMakeFiles/prueba4.dir/network.cpp.obj	7b1f759097a950e0
+2263	2667	7520955183703909	prueba4.exe	c15a1021961a644e
+25	152	7520961400802677	prueba4_autogen/timestamp	9066e2d604cdbe3b
+25	152	7520961400802677	prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+25	152	7520961400802677	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/timestamp	9066e2d604cdbe3b
+25	152	7520961400802677	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+153	898	7520961402195083	CMakeFiles/prueba4.dir/main.cpp.obj	207ccddd6552dfbe
+33	187	7520962193484489	prueba4_autogen/timestamp	9066e2d604cdbe3b
+33	187	7520962193484489	prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+33	187	7520962193484489	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/timestamp	9066e2d604cdbe3b
+33	187	7520962193484489	C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/prueba4_autogen/mocs_compilation.cpp	9066e2d604cdbe3b
+189	2304	7520962195181795	CMakeFiles/prueba4.dir/network.cpp.obj	7b1f759097a950e0
+2304	2870	7520962216345525	prueba4.exe	c15a1021961a644e
