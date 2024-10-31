@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-aef33bba95dc54a66505.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "prueba4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "prueba4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prueba4-Debug-3ef3d36693fddbfc64c4.json",
+					"name" : "prueba4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "prueba4_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prueba4_autogen-Debug-202513f18eff16173235.json",
+					"name" : "prueba4_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "prueba4_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prueba4_autogen_timestamp_deps-Debug-42fe769b0428697e6af5.json",
+					"name" : "prueba4_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Edwin Gutierrez/Documents/info2/practicas/practica4/codigo/prueba/prueba4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
